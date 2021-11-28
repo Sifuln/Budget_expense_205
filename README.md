@@ -2,11 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+## Design Overview
+ <img src="https://raw.githubusercontent.com/Sifuln/Budget_expense_205/main/home_expense.png" alt="Design 1" style="max-width: 100%;" width="300px" height="500px">
+ <img src="https://raw.githubusercontent.com/Sifuln/Budget_expense_205/main/second_screen.png" alt="Design 1" style="max-width: 100%;" width="300px" height="500px">
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
